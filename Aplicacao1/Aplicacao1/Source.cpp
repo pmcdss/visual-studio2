@@ -12,3 +12,10 @@ int main()
 	total = x + y;
 	return 1;
 }
+
+void novaFuncao()
+{
+	int c, d;
+
+	c = d;
+}
