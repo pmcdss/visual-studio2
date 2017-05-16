@@ -7,6 +7,8 @@
 
 int main()
 {
-	printf("Testando algoritmo!");
+	int x, y;
+
+	x = y = 1;
 	return 1;
 }
