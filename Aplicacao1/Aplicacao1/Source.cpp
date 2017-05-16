@@ -7,5 +7,6 @@
 
 int main()
 {
+	printf("Testando algoritmo!");
 	return 1;
 }
