@@ -7,8 +7,8 @@
 
 int main()
 {
-	int x, y;
+	int x, y, total = 0;
 
-	x = y = 1;
+	total = x + y;
 	return 1;
 }
